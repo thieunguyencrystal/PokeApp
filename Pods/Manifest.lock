@@ -1,0 +1,16 @@
+PODS:
+  - netfox (1.14.0)
+
+DEPENDENCIES:
+  - netfox
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - netfox
+
+SPEC CHECKSUMS:
+  netfox: 184c9c5dcb6d9ba3347641fe470341bee57f684c
+
+PODFILE CHECKSUM: 037f5bf32aade0b74feccf359f5f54b43fa8a806
+
+COCOAPODS: 1.5.3
